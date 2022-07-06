@@ -20,6 +20,7 @@ Suggests:
 Remotes:
   lvalnegri/Rfuns
 LazyData: true
+Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
 URL: https://github.com/lvalnegri/uk_babynames
 BugReports: https://github.com/lvalnegri/uk_babynames/issues
